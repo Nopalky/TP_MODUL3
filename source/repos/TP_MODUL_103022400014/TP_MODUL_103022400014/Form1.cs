@@ -2,6 +2,11 @@ namespace TP_MODUL_103022400014
 {
     public partial class Form1 : Form
     {
+
+        string masukan = "";
+        int firstNumber = 0;
+        bool checkedClicked = false;
+
         public Form1()
         {
             InitializeComponent();
@@ -26,5 +31,37 @@ namespace TP_MODUL_103022400014
         {
 
         }
+
+        private void Buttonclk(object sender, EventArgs e)
+        {
+            Button btn = (Button)sender;
+            masukan += btn.Text;
+            label1.Text = masukan;
+        }
+
+        private void button10_Click(object sender, EventArgs e)
+        {
+            if (masukan != "")
+            {
+                firstNumber = int.Parse(masukan);
+                masukan = "";
+                checkedClicked = true;
+                label1.Text = "+";
+                }   
+            }
+        
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            int secondNumber = int.Parse(masukan);
+            int result = firstNumber + secondNumber;
+
+            label1.Text = result.ToString();
+
+            masukan = result.ToString();
+            checkedClicked = false;
+            }
+        }
+
+        
     }
-}

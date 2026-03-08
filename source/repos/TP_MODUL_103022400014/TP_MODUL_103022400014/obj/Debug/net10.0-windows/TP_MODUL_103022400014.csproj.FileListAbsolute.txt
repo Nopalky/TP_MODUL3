@@ -1,0 +1,17 @@
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\obj\Debug\net10.0-windows\TP_MODUL_103022400014.csproj.GenerateResource.cache
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\obj\Debug\net10.0-windows\TP_MODUL_103022400014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\obj\Debug\net10.0-windows\TP_MODUL_103022400014.AssemblyInfoInputs.cache
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\obj\Debug\net10.0-windows\TP_MODUL_103022400014.AssemblyInfo.cs
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\obj\Debug\net10.0-windows\TP_MODUL_103022400014.csproj.CoreCompileInputs.cache
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\obj\Debug\net10.0-windows\TP_MODUL_103022400014.sourcelink.json
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\obj\Debug\net10.0-windows\TP_MODUL_103022400014.Form1.resources
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\bin\Debug\net10.0-windows\TP_MODUL_103022400014.exe
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\bin\Debug\net10.0-windows\TP_MODUL_103022400014.deps.json
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\bin\Debug\net10.0-windows\TP_MODUL_103022400014.runtimeconfig.json
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\bin\Debug\net10.0-windows\TP_MODUL_103022400014.dll
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\bin\Debug\net10.0-windows\TP_MODUL_103022400014.pdb
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\obj\Debug\net10.0-windows\TP_MODUL_103022400014.dll
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\obj\Debug\net10.0-windows\refint\TP_MODUL_103022400014.dll
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\obj\Debug\net10.0-windows\TP_MODUL_103022400014.pdb
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\obj\Debug\net10.0-windows\TP_MODUL_103022400014.genruntimeconfig.cache
+C:\Users\noval\source\repos\TP_MODUL_103022400014\TP_MODUL_103022400014\obj\Debug\net10.0-windows\ref\TP_MODUL_103022400014.dll
