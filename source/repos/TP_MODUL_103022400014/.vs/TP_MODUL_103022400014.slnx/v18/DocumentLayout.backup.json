@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noval\\source\\repos\\TP_MODUL_103022400014\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55F264F7-78DC-42EE-8114-E2590B4C2CBB}|TP_MODUL_103022400014\\TP_MODUL_103022400014.csproj|c:\\users\\noval\\source\\repos\\tp_modul_103022400014\\tp_modul_103022400014\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55F264F7-78DC-42EE-8114-E2590B4C2CBB}|TP_MODUL_103022400014\\TP_MODUL_103022400014.csproj|solutionrelative:tp_modul_103022400014\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55F264F7-78DC-42EE-8114-E2590B4C2CBB}|TP_MODUL_103022400014\\TP_MODUL_103022400014.csproj|c:\\users\\noval\\source\\repos\\tp_modul_103022400014\\tp_modul_103022400014\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55F264F7-78DC-42EE-8114-E2590B4C2CBB}|TP_MODUL_103022400014\\TP_MODUL_103022400014.csproj|solutionrelative:tp_modul_103022400014\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\noval\\source\\repos\\TP_MODUL_103022400014\\TP_MODUL_103022400014\\Form1.cs",
+              "RelativeDocumentMoniker": "TP_MODUL_103022400014\\Form1.cs",
+              "ToolTip": "C:\\Users\\noval\\source\\repos\\TP_MODUL_103022400014\\TP_MODUL_103022400014\\Form1.cs [Design]",
+              "RelativeToolTip": "TP_MODUL_103022400014\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T07:24:30.345Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\noval\\source\\repos\\TP_MODUL_103022400014\\TP_MODUL_103022400014\\Form1.cs",
+              "RelativeDocumentMoniker": "TP_MODUL_103022400014\\Form1.cs",
+              "ToolTip": "C:\\Users\\noval\\source\\repos\\TP_MODUL_103022400014\\TP_MODUL_103022400014\\Form1.cs",
+              "RelativeToolTip": "TP_MODUL_103022400014\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T07:07:21.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
